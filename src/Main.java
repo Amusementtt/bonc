@@ -17,6 +17,7 @@ public class Main {
             => {1,34,101,109}
          */
         insertSort(arr);
+        System.out.println("hello world");
     }
 
     public static void insertSort(int[] arr) {
